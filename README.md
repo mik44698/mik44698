@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**mik44698/mik44698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Michael Edea
 
-Here are some ideas to get you started:
+A Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🌱 I’m currently learning and building projects in data engineering, machine learning, and backend development  
+• 🤝 I’m looking to collaborate on software, data, and AI-driven applications  
+• 💬 Ask me about Python, SQL, Flask, databases, and backend development  
+• 📫 How to reach me: michaeledea2004@gmail.com | [LinkedIn](https://linkedin.com/in/michaeledea)
+
+ 
+• 📄 Know about my experiences: Resume  
+• ⚡ Fun fact: I enjoy turning real-world problems into working software projects  
+
+
+Connect with me:
+[LinkedIn](https://linkedin.com/in/michaeledea)
+
+
+Languages and Tools:
+Python, Java, C++, JavaScript, SQL  
+Flask, SQLite, Git, Docker, Streamlit  
+Machine Learning, Data Processing, Feature Engineering
+
